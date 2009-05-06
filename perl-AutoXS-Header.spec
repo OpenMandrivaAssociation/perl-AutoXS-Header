@@ -9,7 +9,7 @@ Release:    %{release}
 License:    GPL or Artistic
 Group:      Development/Perl
 Summary:    Container for the AutoXS header files
-Source:     http://www.cpan.org/modules/by-module/AutoXS/%{realname}-%{version}.tar.gz
+Source:     http://search.cpan.org/CPAN/authors/id/S/SM/SMUELLER/%{realname}-%{version}.tar.gz
 Url:        http://search.cpan.org/dist/%{realname}
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: perl-devel
