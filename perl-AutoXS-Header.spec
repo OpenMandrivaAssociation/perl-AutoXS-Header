@@ -1,6 +1,6 @@
 
 %define realname   AutoXS-Header
-%define version    1.00
+%define version    1.01
 %define release    %mkrel 1
 
 Name:       perl-%{realname}
