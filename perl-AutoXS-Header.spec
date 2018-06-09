@@ -11,6 +11,7 @@ Url:		http://search.cpan.org/dist/%{upstream_name}
 Source0:	http://search.cpan.org/CPAN/authors/id/S/SM/SMUELLER/%{upstream_name}-%{upstream_version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	perl-devel
+BuildRequires:	perl(Test::More)
 
 %description
 This module is a simple container for the newest version of the the AutoXS
